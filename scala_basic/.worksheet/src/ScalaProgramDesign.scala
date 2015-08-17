@@ -22,5 +22,4 @@ object ScalaProgramDesign {;import org.scalaide.worksheet.runtime.library.Worksh
   def check1()=true;System.out.println("""check1: ()Boolean""");$skip(35); 
   def check2():Boolean=return true;System.out.println("""check2: ()Boolean""")}
   //var testType:Int=_
-  
 }

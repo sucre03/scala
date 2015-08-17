@@ -30,5 +30,4 @@ object ScalaProgramDesign {
   def check1()=true                               //> check1: ()Boolean
   def check2():Boolean=return true                //> check2: ()Boolean
   //var testType:Int=_
-  
 }
